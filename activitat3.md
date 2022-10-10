@@ -18,8 +18,14 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
 Això passa a tots els països?
 
 Quina és la llicència d'OWncloud Enterprise?
+
 I la d'Owncloud Standard?
+
 Es poden veure videos en Streaming directament des de Owncloud?
+
 Es poden connectar directoris de Google Drive a Owncloud?
+
 I Dropbox?
+
 Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
+
