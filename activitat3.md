@@ -62,12 +62,13 @@ Sí. Es un escaner de archius que es diu ClamAv.
 # 3.4.- Mostra els següents canvis de paràmetres d'usuari:
 
 1. Posa't una imatge d'usuari.
-
 2. Afegeix el teu mail de l'Institut.
+3. Canvia l'idioma a català.
 
-4. Canvia l'idioma a català.
+A aquesta imatge esta les anterios opcionsde configuració.
+![alt text](Selecció_026.png)
 
-5. Mostra la versió d'Owncloud instal·lada.
+4. Mostra la versió d'Owncloud instal·lada.
 
 
 
