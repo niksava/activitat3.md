@@ -70,8 +70,4 @@ A aquesta imatge esta les anterios opcionsde configuració.
 
 4. Mostra la versió d'Owncloud instal·lada.
 
-
-
-
-
-
+![alt text](Selecció_027.png)
