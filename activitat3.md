@@ -58,3 +58,19 @@ Sí. Ho poden fer amb qualsevol
 
 10. Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
 Sí. Es un escaner de archius que es diu ClamAv.
+
+# 3.4.- Mostra els següents canvis de paràmetres d'usuari:
+
+1. Posa't una imatge d'usuari.
+
+2. Afegeix el teu mail de l'Institut.
+
+4. Canvia l'idioma a català.
+
+5. Mostra la versió d'Owncloud instal·lada.
+
+
+
+
+
+
