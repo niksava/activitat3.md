@@ -32,9 +32,11 @@ Perque estan mes optimitzats amb el Owncloud
 
 4. Això passa a tots els països?
 
-
+No.
 
 5. Quina és la llicència d'OWncloud Enterprise?
+
+Hi ha dos categories una es 
 
 6. I la d'Owncloud Standard?
 
