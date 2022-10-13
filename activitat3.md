@@ -28,7 +28,7 @@ Més seguretat mitjançant l'autenticació integrada de 2 factors. El procés d'
 
 3. Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
 
-Perque estan mes optimitzats amb el Owncloud
+Perque estan mes optimitzats amb el Owncloud.
 
 4. Això passa a tots els països?
 
@@ -36,15 +36,25 @@ No.
 
 5. Quina és la llicència d'OWncloud Enterprise?
 
-Hi ha dos categories una es 
+Es la que esta al mig.
+
+![alt text](Selecció_022.png)
 
 6. I la d'Owncloud Standard?
 
+Es la que esta a la dreta.
+
+![alt text](Selecció_022.png)
+
 7. Es poden veure videos en Streaming directament des de Owncloud?
+Si
 
 8. Es poden connectar directoris de Google Drive a Owncloud?
+Sí.
 
 9. I Dropbox?
 
-10. Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
+Sí. Ho poden fer amb qualsevol
 
+10. Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
+Sí. Es un escaner de archius que es diu ClamAv.
