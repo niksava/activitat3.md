@@ -11,9 +11,9 @@ Aquesta comanda permet veure tots dominis disponibles que tens i les IPs també.
 
 1. Quin són els tres tipus de protecció de dades que ofereix Owncloud?
 
-SSO / SAML 2.0
-AD/ LDAP
-Autenticación de 2 factores
+En transit 
+Repos
+Extern
 
 2. Fes una petita descripció de cada un d'ells.
 
