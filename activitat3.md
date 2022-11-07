@@ -13,7 +13,7 @@ Aquesta comanda permet veure tots dominis disponibles que tens i les IPs també.
 
 En transit 
 Repos
-Extern
+Extrem a Extrem
 
 2. Fes una petita descripció de cada un d'ells.
 
@@ -36,15 +36,11 @@ No.
 
 5. Quina és la llicència d'OWncloud Enterprise?
 
-Es la que esta al mig.
-
-![alt text](Selecció_022.png)
+Lisensia Sotware Comercial
 
 6. I la d'Owncloud Standard?
 
-Es la que esta a la dreta.
-
-![alt text](Selecció_022.png)
+AGPLv3
 
 7. Es poden veure videos en Streaming directament des de Owncloud?
 Si
